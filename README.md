@@ -5,9 +5,9 @@
 <p>
   <em>
    Hello, I am
-Anil Kadam.
+Anil Kadam :nerd_face:.
 I am working as Software Developer.
-I'm interested in Algorithms, Web Development, building restful APIs and microservices. I overwhelmingly like C++ and Javascript. Love to watch Cricket, Gaming streams and Tech reviews.
+I'm interested in Algorithms, Web Development, building restful APIs and microservices :rocket:	. I overwhelmingly like C++ and Javascript. Love to watch Cricket, Gaming streams and Tech reviews :wink:.
 </em>
 
 </p>
