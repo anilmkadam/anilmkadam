@@ -32,7 +32,7 @@ I'm interested in Algorithms, Web Development, building restful APIs and microse
   <a href="mailto:anilkadam210@gmail.com">
     <img align="left" alt="Anil Kadam | Gmail" width="26px" src="https://github.com/anilmkadam/anilmkadam/blob/master/assets/Gmail.svg" />
   </a>&nbsp;&nbsp;
-  <a href="anilmkadam.github.io">
+  <a href="https://anilmkadam.github.io/">
     <img align="left" alt="Anil Kadam | Website" width="26px" src="https://github.com/anilmkadam/anilmkadam/blob/master/assets/web.png" />
   </a>
  
