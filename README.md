@@ -5,11 +5,8 @@
 <p>
   <em>
    Hello, I am
-
 Anil Kadam.
-
 I am working as Software Developer.
-
 I'm interested in Algorithms, Web Development, building restful APIs and microservices. I overwhelmingly like C++ and Javascript. Love to watch Cricket, Gaming streams and Tech reviews.
 </em>
 
@@ -19,7 +16,7 @@ I'm interested in Algorithms, Web Development, building restful APIs and microse
 
 ![Anil's github stats](https://github-readme-stats.vercel.app/api?username=anilmkadam&show_icons=true&hide_border=true)
 
-## Connect with me <img src="https://github.com/anilmkadam/anilmkadam/blob/master/Assets/Handshake.gif" height="32px">
+## Connect with me
 
 <br>
 
