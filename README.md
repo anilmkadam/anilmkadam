@@ -20,16 +20,16 @@ I'm interested in Algorithms, Web Development, building restful APIs and microse
 
 <br>
 
-  <a href="https://in.linkedin.com/in/TheDudeThatCode">
+  <a href="https://www.linkedin.com/in/anil-kadam-9a643614a/">
     <img align="left" alt="Anil Kadam | Linkedin" width="24px" src="https://github.com/anilmkadam/anilmkadam/blob/master/assets/Twitter.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://twitter.com/TheDudeThatCode">
+  <a href="https://twitter.com/anilkadam210">
     <img align="left" alt="Anil Kadam  | Twitter" width="26px" src="https://github.com/anilmkadam/anilmkadam/blob/master/assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/thedudethatcode/">
+  <a href="https://www.instagram.com/anilkadam18/">
     <img align="left" alt="Anil Kadam  | Instagram" width="24px" src="https://github.com/anilmkadam/anilmkadam/blob/master/assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
-  <a href="mailto:shubhamdeepjha@gmail.com">
+  <a href="mailto:anilkadam210@gmail.com">
     <img align="left" alt="Anil Kadam | Gmail" width="26px" src="https://github.com/anilmkadam/anilmkadam/blob/master/assets/Gmail.svg" />
   </a>
  
