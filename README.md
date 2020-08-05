@@ -7,7 +7,7 @@
    Hello, I am
 Anil Kadam :nerd_face:.
 I am working as Software Developer.
-I'm interested in Algorithms, Web Development, building restful APIs and microservices :rocket:	. I overwhelmingly like C++ and Javascript. Love to watch Cricket, Gaming streams and Tech reviews :wink:.
+    I'm interested in <b>Algorithms, Web Development, building restful APIs and microservices</b> :rocket:	. I overwhelmingly like C++ and Javascript. <b>Love to watch Cricket, Gaming streams and Tech reviews<b>. :wink:.
 </em>
 
 </p>
