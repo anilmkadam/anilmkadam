@@ -20,11 +20,11 @@ I am working as Software Developer.
 
 <br>
 
-  <a href="https://www.linkedin.com/in/anil-kadam-9a643614a/">
-    <img align="left" alt="Anil Kadam | Linkedin" width="24px" src="https://github.com/anilmkadam/anilmkadam/blob/master/assets/Twitter.svg" />
-  </a> &nbsp;&nbsp;
   <a href="https://twitter.com/anilkadam210">
-    <img align="left" alt="Anil Kadam  | Twitter" width="26px" src="https://github.com/anilmkadam/anilmkadam/blob/master/assets/Linkedin.svg" />
+    <img align="left" alt="Anil Kadam | Twitter" width="24px" src="https://github.com/anilmkadam/anilmkadam/blob/master/assets/Twitter.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/anil-kadam-9a643614a/">
+    <img align="left" alt="Anil Kadam  | LinkedIn" width="26px" src="https://github.com/anilmkadam/anilmkadam/blob/master/assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/anilkadam18/">
     <img align="left" alt="Anil Kadam  | Instagram" width="24px" src="https://github.com/anilmkadam/anilmkadam/blob/master/assets/Instagram.svg" />
