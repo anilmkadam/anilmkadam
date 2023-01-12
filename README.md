@@ -14,7 +14,6 @@ I am working as Software Developer.
 
 <br>
 
-![Anil's github stats](https://github-readme-stats.vercel.app/api?username=anilmkadam&show_icons=true&hide_border=true)
 
 ## Connect with me
 
